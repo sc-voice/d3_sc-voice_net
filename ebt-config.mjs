@@ -1,5 +1,5 @@
 const EbtConfig = {
-  "appName": "EBT-Site",
+  "appName": "D3.SC-Voice.net",
   "basePath": "/",
   "homePath": "#/wiki/welcome",
   "tutorialPath": "#/wiki/tutorial/tutorial",
@@ -11,7 +11,7 @@ const EbtConfig = {
   "monolingual": false,
   "github": {
     "account": "sc-voice",
-    "repository": "ebt-site3"
+    "repository": "d3_sc-voice_net"
   }
 }
 
