@@ -1,6 +1,6 @@
 const EbtConfig = {
   "appName": "D3.SC-Voice.net",
-  "basePath": "/",
+  "basePath": "/d3_sc-voice_net/",
   "homePath": "#/wiki/welcome",
   "tutorialPath": "#/wiki/tutorial/tutorial",
   "content": {
