@@ -7,12 +7,9 @@ category: 1. General
 order: 1
 ---
 
-Welcome to EBT-Site.
+Welcome to D3.SC-Voice.net.
 
-This website lets you search and hear the Early Buddhist Texts archived
-and translated on [SuttaCentral](https://suttacentral.net).
-
-* See other [EBT-Sites](https://ebt-site.github.io/ebt-vue3/#/wiki/sites/toc)
-* Create a [custom EBT-Site](#/wiki/design/create)
+This website shows network graphs for the Early Buddhist Texts (EBT)
+using [D3 Disjoint force-directed graphs](https://observablehq.com/@d3/disjoint-force-directed-graph/2)
 
 Wed Jul 26 11:15:12 AM PDT 2023
